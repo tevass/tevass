@@ -3,6 +3,12 @@
 Tenho 17 anos, aspirante a desenvolvedor e estudando programação a um pouco mais de dois anos, <br />
 principalmente voltada para web. Atualmente cursando o último ano do Ensino Médio na ETEC. 😃
 
+<div>
+  <a href="https://github.com/EST3V4O" align="right">
+    <img align="right" src="https://github-readme-stats.vercel.app/api?username=EST3V4O&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  </a>
+</div>
+
 ### :rocket: Tenho conhecimentos em: <br/>
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>&nbsp;&nbsp;
@@ -18,3 +24,6 @@ principalmente voltada para web. Atualmente cursando o último ano do Ensino Mé
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </p>
+
+
+
