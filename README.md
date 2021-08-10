@@ -5,7 +5,7 @@ principalmente voltada para web. Atualmente cursando o último ano do Ensino Mé
 
 <div>
   <a href="https://github.com/EST3V4O" align="right">
-    <img align="right" src="https://github-readme-stats.vercel.app/api?username=EST3V4O&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+    <img height="180em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EST3V4O&layout=compact&langs_count=7&theme=dracula"/>
   </a>
 </div>
 
