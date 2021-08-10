@@ -1,7 +1,7 @@
 ## 🤙 **Olá! Eu sou o Estevão**
 
 Tenho 17 anos, aspirante a desenvolvedor e estudando programação a um pouco mais de dois anos, <br />
-principalmente voltada para web. Atualmente cursando o último ano do Ensino Médio na ETEC
+atualmente cursando o último ano do Ensino Médio na ETEC de Morato.
 
 <div>
   <a href="https://github.com/EST3V4O" align="right">
