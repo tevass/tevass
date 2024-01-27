@@ -1,4 +1,4 @@
-# Hei there, I'm Estevão 👋
+# Hi there, I'm Estevão 👋
 
 ```js
 class Dev {
